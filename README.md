@@ -1,7 +1,7 @@
 # NoTankControls
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) and
-[NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for Resonite and [Neos VR](https://neos.com/)
+[NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Resonite](https://resonite.com) and [Neos VR](https://neos.com/)
 that allows you to move with your joysticks while holding any tool.
 
 Neos/Resonite disables the joystick if you have a tooltip equipped which makes use of the "Secondary" action
@@ -9,7 +9,8 @@ Neos/Resonite disables the joystick if you have a tooltip equipped which makes u
 This mod removes that restriction, allowing tools to be equipped while keeping full movement intact.
 
 ## Relavent Issue
-Neos-Metaverse/NeosPublic#1969 seems related.
+Neos VR: Neos-Metaverse/NeosPublic#1969 seems related.
+Resonite: Yellow-Dog-Man/Resonite-Issues#2310 seems related.
 
 ## Installation
 1. Install the appropriate modloader.
